@@ -1,0 +1,62 @@
+1.	List and explain different Power BI products?
+ANS a). Power BI Desktop
+•	Creating and editing customized reports for every level of expertise.
+•	Data ingestion from hundreds of supported data sources.
+•	Data transformation, cleaning, data model creation with built-in Power Query Editor.
+•	AI-driven analytics.
+•	Interactive reporting with pre-built or custom visuals.
+    b). Power BI Pro
+•	Self-service BI in the cloud.
+•	Creating, editing and sharing reports and dashboards among users.
+•	Collaboration in personal and team workspaces.
+•	10 GB of storage per user.
+    c). Power BI Premium
+•	Enterprise BI both on-premises and in the cloud.
+•	Dedicated storage (100 TB) and compute resources.
+•	Consumption of Power BI content without individual licensing.
+•	Maintaining BI assets on-premises with the Power BI Report server.
+•	Paginated reporting.
+•	Multi-geo capability.
+   d). Power BI Embedded
+•	Reports, dashboards and visual analytics embedded into applications.
+•	An extensive library of data connectors, APIs, and fully documented SDKs.
+
+2.  What limitations of Excel, Microsoft solved by Power BI?
+ANS Excel has limitations in the amount of data it can work with. In contrast, Power BI can handle much larger amounts of data. Power BI can connect to a large number of data sources, while Excel's connectivity capacity is limited. Also, unlike Excel, Power BI can be easily used from mobile devices.
+
+3.  Explain Power Query?
+ANS Power Query is a data transformation and data preparation engine. Power Query comes with a graphical interface for getting data from sources and a Power Query Editor for applying transformations. Because the engine is available in many products and services, the destination where the data will be stored depends on where Power Query was used. Using Power Query, you can perform the extract, transform, and load (ETL) processing of data.
+
+4.  Explain Power Map?
+ANS Microsoft Power Map for Excel is a three-dimensional (3-D) data visualization tool that lets you look at information in new ways. A power map lets you discover insights you might not see in traditional two-dimensional (2-D) tables and charts.
+With Power Map, you can plot geographic and temporal data on a 3-D globe or custom map, show it over time, and create visual tours you can share with other people. You’ll want to use Power Map to:
+	Map data    Plot more than a million rows of data visually on Bing maps in 3-D format from an Excel table or Data Model in Excel.
+	Discover insights    Gain new understandings by viewing your data in geographic space and seeing time-stamped data change over time.
+	Share stories    Capture screenshots and build cinematic, guided video tours you can share broadly, engaging audiences like never before. Or export tours to video and share them that way as well. 
+
+5.  How powerBi eliminated the need to host SharePoint Server on premises?
+customers can use Power BI and optionally integrate their Power BI content into SharePoint 2019 and SharePoint Online, using either Power BI or Power BI Report Server.
+•	Adding support for all major report types across both platforms.
+•	 Providing easier ways to report on your data in SharePoint. 
+•	 Power Pivot Scheduled Data Refresh. 
+•	· Modern Authentication support.
+
+6.  Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
+ANS Reporting
+•	Unshared and unsynchronized axes for small multiples charts 
+•	Controlling and customizing labels on Azure Maps 
+•	Create dynamic slicers using field parameters (Preview)
+•	Composite models over Power BI datasets and Analysis Services (Preview) 
+
+   Modelling
+•	Streamline your report authoring experience with Optimize ribbon (Preview) 
+•	New DAX function: EVALUTATEANDLOG 
+•	New DAX functions: TOCSV and TOJSON
+   Data connectivity
+•	Many updated data connectors 
+   Visuals
+•	New visuals in AppSource 
+   Others
+•	Power BI Desktop infrastructure update (WebView2) 
+•	New Power BI color accent 
+
